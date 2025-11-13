@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
-import Apicalling from "./Apicalling";
-import MemeCard from "./MemeCard";
-import Search from "./Search";
+import Apicalling from "./Components/Apicalling";
+import MemeCard from "./Components/MemeCard";
+import Search from "./Components/Search";
 
 function Body() {
   const allMemes = Apicalling();

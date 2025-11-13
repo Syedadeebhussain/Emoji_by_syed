@@ -1,5 +1,5 @@
 import React from "react";
-import Body from "./Components/Body.JSX";
+import Body from "./Body";
 
 
 function App() {
