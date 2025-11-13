@@ -113,10 +113,10 @@ d)I copied that link and opened it in my browser and after that my project start
         git add README.md
         git commit -m "first commit"
         git branch -M main
-        git remote add origin https://github.com/Syedadeebhussain/emoji_search.git
+        git remote add origin https://github.com/Syedadeebhussain/Emoji_by_syed.git
         git push -u origin main
   
-7. How I Deployed My Project on Vercel
+8. How I Deployed My Project on Vercel
   a)After uploading the project to GitHub, I deployed it  using Vercel so that anyone can view it easily.
   b) 1)I logged in to Vercel.com
      2)Clicked “Add New Project” and selected my GitHub repository.
